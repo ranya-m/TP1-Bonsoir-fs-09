@@ -1,0 +1,33 @@
+*{
+    color:white;
+}
+h1 {
+    background-color:rgb(136, 45, 96); padding-bottom: 25px;
+    text-align: center;
+}
+
+div.background {
+    
+    background-image: url("./miaw.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 1600px 600px;
+}
+
+
+div.paragraph {
+    box-sizing:content-box;
+    width: 725px;
+    height:450px;
+
+}
+
+
+h6 {
+    background-color: hsl(120, 50%, 35%);
+    padding-bottom: 50px;
+}
+
+    
+
+   
